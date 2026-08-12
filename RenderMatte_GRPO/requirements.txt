@@ -1,0 +1,16 @@
+accelerate
+absl-py
+bitsandbytes
+diffusers
+ml-collections
+numpy
+peft
+pillow
+safetensors
+scikit-image
+scipy
+torch
+torchvision
+tqdm
+transformers
+wandb
