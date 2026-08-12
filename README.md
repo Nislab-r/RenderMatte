@@ -2,10 +2,10 @@
 
 **Zecheng Ren**, **Yafei Hu**, **Jianing Zhao**, **Ruichen Cong**, **Qun Jin**, **Yiren Song**
 
-[arXiv](https://arxiv.org/abs/2608.08487)
-[HuggingFace](https://huggingface.co/Renz-7/RenderMatte)
-[Dataset](https://huggingface.co/datasets/Renz-7/RenderMatte-dataset/tree/main)
-[License](https://github.com/Nislab-r/RenderMatte/blob/main/LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2608.08487-b31b1b.svg)](https://arxiv.org/abs/2608.08487)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow.svg)](https://huggingface.co/Renz-7/RenderMatte)
+[![Dataset](https://img.shields.io/badge/Dataset-RenderMatte-green.svg)](https://huggingface.co/datasets/Renz-7/RenderMatte-dataset/tree/main)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/Nislab-r/RenderMatte/blob/main/LICENSE)
 
 ## Teaser
 
