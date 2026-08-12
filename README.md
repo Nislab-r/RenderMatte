@@ -7,8 +7,6 @@
 [![Dataset](https://img.shields.io/badge/Dataset-RenderMatte-green.svg)](https://huggingface.co/datasets/Renz-7/RenderMatte-dataset/tree/main)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/Nislab-r/RenderMatte/blob/main/LICENSE)
 
-## Teaser
-
 <p align="center">
   <img src="assets/teaser.png" alt="RenderMatte teaser" width="95%">
 </p>
