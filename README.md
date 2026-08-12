@@ -7,7 +7,11 @@
 [Dataset](https://huggingface.co/datasets/Renz-7/RenderMatte-dataset/tree/main)
 [License](https://github.com/Nislab-r/RenderMatte/blob/main/LICENSE)
 
-Teaser
+## Teaser
+
+<p align="center">
+  <img src="assets/teaser.png" alt="RenderMatte teaser" width="95%">
+</p>
 
 > **Abstract:** We present **RenderMatte**, a trimap-guided image matting framework that adapts FLUX.1 Kontext with exact-alpha rendered supervision and group-relative alignment. RenderMatte combines full-parameter SFT, alpha-edge supervision, and matting-specific post-training rewards, achieving high-fidelity open-world alpha prediction across matting benchmarks.
 
